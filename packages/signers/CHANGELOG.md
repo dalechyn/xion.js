@@ -1,5 +1,11 @@
 # @burnt-labs/signers
 
+## 0.1.0-alpha.11
+
+### Minor Changes
+
+- [#178](https://github.com/burnt-labs/xion.js/pull/178) [`a0b5031`](https://github.com/burnt-labs/xion.js/commit/a0b5031f8766369b00562387b692450f396a9d7f) Thanks [@BurntVal](https://github.com/BurntVal)! - Implement ability to remove authenticators
+
 ## 0.1.0-alpha.10
 
 ### Minor Changes

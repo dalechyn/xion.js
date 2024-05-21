@@ -1,5 +1,18 @@
 # abstraxion-dashboard
 
+## 0.2.0-alpha.27
+
+### Minor Changes
+
+- [#178](https://github.com/burnt-labs/xion.js/pull/178) [`a0b5031`](https://github.com/burnt-labs/xion.js/commit/a0b5031f8766369b00562387b692450f396a9d7f) Thanks [@BurntVal](https://github.com/BurntVal)! - Implement ability to remove authenticators
+
+### Patch Changes
+
+- Updated dependencies [[`a0b5031`](https://github.com/burnt-labs/xion.js/commit/a0b5031f8766369b00562387b692450f396a9d7f)]:
+  - @burnt-labs/signers@0.1.0-alpha.11
+  - @burnt-labs/ui@0.1.0-alpha.13
+  - @burnt-labs/abstraxion@1.0.0-alpha.46
+
 ## 0.2.0-alpha.26
 
 ### Minor Changes
